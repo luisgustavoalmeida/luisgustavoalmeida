@@ -37,5 +37,8 @@ Olá! 👋 Sou Luís Gustavo, um engenheiro eletricista apaixonado por programa�
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lga.gustavo.a@gmail.com) lga.gustavo.a@gmail.com
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
 Estou à disposição para colaborações e oportunidades de aprendizado. Não hesite em entrar em contato!
