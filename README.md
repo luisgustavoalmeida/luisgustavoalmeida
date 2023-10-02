@@ -33,6 +33,7 @@ Olá! 👋 Sou Luís Gustavo, um engenheiro eletricista apaixonado por programa�
 ![Proteus](https://img.shields.io/badge/Proteus-00ADEF?style=for-the-badge&logo=proteus&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![GOOGLE CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Contato
 
