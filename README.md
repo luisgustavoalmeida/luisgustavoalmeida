@@ -4,6 +4,15 @@ Olá! 👋 Sou Luís Gustavo, um engenheiro eletricista apaixonado por programa�
 
 ## Habilidades
 
+## Linguagens de Programação
+
+- **Python:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **C++:** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- **C:** ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+- **JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **SQL:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+
 - **Linguagens de Programação:** Python, C++, C, JavaScript, SQL.
 - **Frameworks e Tecnologias:** Flask, Machine Learning & AI, Software Embarcado.
 - **Ferramentas e Habilidades Adicionais:** Git, PyCharm, Visual Studio, VS Code, Office, IDE Arduino, Matlab, Proteus.
