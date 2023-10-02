@@ -12,6 +12,7 @@ Olá! 👋 Sou Luís Gustavo, um engenheiro eletricista apaixonado por programa�
 
 - **GitHub:** [github.com/luisgustavoalmeida](https://github.com/luisgustavoalmeida)
 - **LinkedIn:** [linkedin.com/in/luís-gustavo-de-almeida](https://www.linkedin.com/in/lu%C3%ADs-gustavo-de-almeida/)
-- **Email:** lga.gustavo.a@gmail.com
+- **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lga.gustavo.a@gmail.com)
+
 
 Estou à disposição para colaborações e oportunidades de aprendizado. Não hesite em entrar em contato!
